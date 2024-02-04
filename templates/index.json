@@ -1,21 +1,14 @@
 {
   "sections": {
-    "image_banner": {
+    "image_banner_FqYJWA": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Browse our latest products",
-            "heading_size": "h0"
-          }
-        },
-        "button": {
+        "buttons_7zcdz7": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
+            "button_label_1": "SHOP NOW",
+            "button_link_1": "shopify:\/\/products\/galaxi-box™",
+            "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -23,53 +16,214 @@
         }
       },
       "block_order": [
-        "heading",
-        "button"
+        "buttons_7zcdz7"
       ],
       "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
+        "image": "shopify:\/\/shop_images\/Banner.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
+        "color_scheme": "scheme-2",
+        "image_behavior": "zoom-in",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
+    "image_with_text_NLKndW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ACWQqx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Galaxy Glob",
+            "heading_size": "h2"
+          }
+        },
+        "text_fF8PnE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_gAqFmw": {
+          "type": "button",
+          "settings": {
+            "button_label": "Order now",
+            "button_link": "shopify:\/\/products\/galaxi-box™",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ACWQqx",
+        "text_fF8PnE",
+        "button_gAqFmw"
+      ],
       "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 44,
+        "image": "shopify:\/\/shop_images\/3D-Crystal-Ball-LED-Night-Light-Moon-Galaxy-Projector-Atmospheric-Home-Bedroom-Decorative-Light-USB-Plug.jpg__1_233a5e55-e973-4e99-9e0f-366e55db2a65.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_Jm98Gf": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_qNymtq": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Universe from Your Room",
+            "heading_size": "h2"
+          }
+        },
+        "text_PNRKKe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_B7TknF": {
+          "type": "button",
+          "settings": {
+            "button_label": "order now",
+            "button_link": "shopify:\/\/products\/galaxi-box™",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_qNymtq",
+        "text_PNRKKe",
+        "button_B7TknF"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WhatsAppImage2023-07-27at01.36.14.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_xbcPH3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GU3A8P": {
+          "type": "heading",
+          "settings": {
+            "heading": "Testmonial",
+            "heading_size": "h2"
+          }
+        },
+        "text_EDDCRe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover the power of our products through the testimonials of our satisfied customers. See their transformation and join them on their journey.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GU3A8P",
+        "text_EDDCRe"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_frpHPd": {
+      "type": "rich-text",
+      "blocks": {
+        "text_MeWQXP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unleash the potential of our product with our customer testmonials. Hear their success stories and become inspired!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_MeWQXP"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collage_DkQmRm": {
+      "type": "collage",
+      "blocks": {
+        "image_yWb3D6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WhatsAppImage2023-07-27at01.19.10_9fcd7c9d-55ce-41e9-aa8c-f64d3db201a9.webp"
+          }
+        },
+        "product_EmrcTN": {
+          "type": "product",
+          "settings": {
+            "product": "galaxi-box™",
+            "second_image": false
+          }
+        },
+        "collection_EqDpcR": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage"
+          }
+        }
+      },
+      "block_order": [
+        "image_yWb3D6",
+        "product_EmrcTN",
+        "collection_EqDpcR"
+      ],
+      "settings": {
+        "heading": "Instagram",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
   "order": [
-    "image_banner",
-    "featured_collection"
+    "image_banner_FqYJWA",
+    "image_with_text_NLKndW",
+    "image_with_text_Jm98Gf",
+    "rich_text_xbcPH3",
+    "rich_text_frpHPd",
+    "collage_DkQmRm"
   ]
 }
